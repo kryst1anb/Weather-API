@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherAPI</string>
+    <string name="sunseticon">sunseticon</string>
+    <string name="humidityicon">humidityicon</string>
+    <string name="sunriseicon">sunriseicon</string>
+    <string name="weathericon">weathericon</string>
+</resources>
